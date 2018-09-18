@@ -1,1 +1,2 @@
 # NBA_analysis
+There are many speculations about which teams are going to have the highest performance for the following season, but many people don't know the true impact a player brings to their respective team. This project was created to demonstrate how a player has contributed for their team on offense and defense, by scoring the player on their in-game attributes. Many of the trends plotted in the project can provide more accurate insight into how these NBA teams and players stack up for the following season.
